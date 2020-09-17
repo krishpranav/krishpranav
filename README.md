@@ -6,4 +6,4 @@
 <h2 align="center"> More About Me </h2> 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=krishpranav&theme=dracula)](www.github.com/krishpranav)
+[![trophy](https://github-profile-trophy.vercel.app/?username=krishpranav&theme=dracula)]()
