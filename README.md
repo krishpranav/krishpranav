@@ -7,4 +7,4 @@
 
 <p align="center"> My HackTheBox Stats</p>
 
-<img src="http://www.hackthebox.eu/badge/image/418532" alt="Hack The Box">
+<p align="center"><img src="http://www.hackthebox.eu/badge/image/418532" alt="Hack The Box"></p>
