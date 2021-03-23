@@ -7,7 +7,7 @@
 <h2><b><i>Hi i am krishpranav 👋</i></b></h2>
 <b><i>💻 I'm a Student & A part time Programmer</i></b>
 
-<h3><b><i>☠ Works :</i></b></h3>
+<h3><b><i> My Awsome Works :</i></b></h3>
 <li> <a href="https://github.com/krishpranav/Backdoorcreator">Backdoorcreator - A simple python tool for creating backdoor.</a>
 <li> <a href="https://github.com/krishpranav/BugHuntingToolKit">BugHuntingToolKit - A tool which contains all hacking tools used by bug hunting</a>
 <li> <a href="https://github.com/krishpranav/IP-Grabber">IP-Grabber - A tool for grabbing victims ip and tracks his location.</a>
