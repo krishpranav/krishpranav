@@ -18,5 +18,5 @@
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/krishpranav"><img width=550 src="https://github-profile-trophy.vercel.app/?username=krishpranav&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
-<h3><b><i>🏆 Profile Statistics :</i></b></h3>
+<h3><b><i>🏆 My Profile View :</i></b></h3>
 <a href="https://github.com/krishpranav"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=krishpranav&color=blueviolet&style=flat-square"></a>
