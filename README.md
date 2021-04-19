@@ -4,6 +4,11 @@
 &nbsp;&nbsp;&nbsp;
 </a></p>
 
+
+<p align='center'>
+  <img src='https://cdn.iconscout.com/icon/free/png-512/python-14-569257.png' width="125" height="125">
+</p>
+
 <h2><b><i>Hi i am krishpranav 👋</i></b></h2>
 <b><i>💻 I'm a Student & A part time Programmer</i></b>
 
