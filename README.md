@@ -17,7 +17,7 @@
 <li> <a href="https://github.com/krishpranav/prana-os">Prana-os - My own operating system</a>
 <li> <a href="https://github.com/krishpranav/IP-Grabber">IP-Grabber - A tool for grabbing victims ip and tracks his location.</a>
 <li> <a href="https://github.com/krishpranav/allinonehack">allinonehack - A tool used to download different hacking tools.</a>
-<li> <a href="https://github.com/krishpranav/BruteServiceKit">BruteServiceKit - A simple tool for bruteforcing different ports on a website.</a>
+<li> <a href="https://github.com/krishpranav/ktop">ktop - A terminal based graphical activity monitor inspired by htop.</a>
 <li> <a href="https://github.com/krishpranav/InstaInfo">InstaInfo - A tool for scraping info about a instagram user.</a>
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
