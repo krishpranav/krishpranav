@@ -1,5 +1,8 @@
 <!-- Github README -->
 <p align="center"><a href="https://github.com/krishpranav">
+
+<p align="center"><a href="https://github.com/krishpranav"><img src="https://github.com/krishpranav/krishpranav/blob/main/IMG/hacker.gif"=alt"bt">
+
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=krishpranav&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
 </a></p>
