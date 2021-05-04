@@ -3,8 +3,7 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=krishpranav&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
 </a></p>
-
-
+  
 <p align='center'>
   <img src='https://cdn.iconscout.com/icon/free/png-512/python-14-569257.png' width="125" height="125">
 </p>
