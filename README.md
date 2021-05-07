@@ -19,7 +19,6 @@
 <li> <a href="https://github.com/krishpranav/allinonehack">allinonehack - A tool used to download different hacking tools.</a>
 <li> <a href="https://github.com/krishpranav/ktop">ktop - A terminal based graphical activity monitor inspired by htop.</a>
 <li> <a href="https://github.com/krishpranav/InstaInfo">InstaInfo - A tool for scraping info about a instagram user.</a>
-<li> <a href="https://github.com/krishpranav/ts-terminal">ts-terminal - A terminal build using typescript.</a>
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/krishpranav"><img width=550 src="https://github-profile-trophy.vercel.app/?username=krishpranav&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
