@@ -3,10 +3,23 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=krishpranav&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
 </a></p>
-  
-<p align='center'>
-  <img src='https://cdn.iconscout.com/icon/free/png-512/python-14-569257.png' width="125" height="125">
-</p>
+
+```go
+package main
+
+type Me struct{
+  Skills string
+  Code string
+}
+
+func main(){
+  me := &Me{
+    Skills: "Programming, Hacking",
+    Code: "Python, Ruby, C++, Go, and every thing",
+  }
+  _ = me
+}
+```
 
 <h2><b><i>Hi i am krishpranav 👋</i></b></h2>
 <b><i>💻 I'm a Student & A part time Programmer</i></b>
