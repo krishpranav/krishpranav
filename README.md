@@ -8,13 +8,13 @@
 package main
 
 type Me struct{
-  Skills string
+  Interest string
   Code string
 }
 
 func main(){
   me := &Me{
-    Skills: "Programming, Hacking",
+    Interest: "Programming, Hacking",
     Code: "Python, Ruby, C++, Go, and every thing",
   }
   _ = me
