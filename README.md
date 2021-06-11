@@ -9,7 +9,6 @@
 
 <h3><b><i> My Awsome Works :</i></b></h3>
 <li> <a href="https://github.com/krishpranav/prana-os">prana-os - A unix operating system made from scratch using c++</a>
-<li> <a href="https://github.com/krishpranav/ruby-nmap">ruby-nmap -  A nmap made in ruby.</a>
 <li> <a href="https://github.com/krishpranav/adbsploit">adbsploit - A python based tool for exploiting and managing android devices via ADB.</a>
 <li> <a href="https://github.com/krishpranav/exploit-framework">exploit-framework - A multiple reverse shell sessions/clients manager via terminal written in go. </a> 
 <li> <a href="https://github.com/krishpranav/IP-Grabber">IP-Grabber - A tool for grabbing victims ip and tracks his location.</a>
