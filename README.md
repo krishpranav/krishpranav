@@ -4,23 +4,6 @@
 &nbsp;&nbsp;&nbsp;
 </a></p>
 
-```go
-package main
-
-type Me struct{
-  Interest string
-  Code string
-}
-
-func main(){
-  me := &Me{
-    Interest: "Programming, Hacking",
-    Code: "Python, Ruby, C++, Go, and every thing",
-  }
-  _ = me
-}
-```
-
 <h2><b><i>Hi i am krishpranav 👋</i></b></h2>
 <b><i>💻 I'm a Student & A part time Programmer</i></b>
 
