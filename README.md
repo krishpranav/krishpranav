@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;
 </a></p>
 
-<h2><b><i>Hi i am krishpranav 👋</i></b></h2>
+<h2><b><i>Hi i am krishpranav</i></b></h2>
 <b><i>💻 I'm a Student & A part time Programmer</i></b>
 
 <h3><b><i> My Awsome Works :</i></b></h3>
