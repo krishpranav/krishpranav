@@ -10,8 +10,8 @@
 <h3><b><i> My Awsome Works :</i></b></h3>
 <li> <a href="https://github.com/pranaOS/pranaOS">pranaOS - A unix operating system made from scratch using c++</a>
 <li> <a href="https://github.com/krishpranav/adbsploit">adbsploit - A python based tool for exploiting and managing android devices via ADB.</a>
-<li> <a href="https://github.com/krishpranav/exploit-framework">exploit-framework - A multiple reverse shell sessions/clients manager via terminal written in go. </a> 
-<li> <a href="https://github.com/krishpranav/IP-Grabber">IP-Grabber - A tool for grabbing victims ip and tracks his location.</a>
+<li> <a href="https://github.com/krishpranav/maigret">maigret - A simple username osint tool built in go. </a> 
+<li> <a href="https://github.com/krishpranav/wpscan">wpscan - wpscan is a vulnerability recognition tool in CMS Wordpress developed in Go.</a>
 <li> <a href="https://github.com/krishpranav/allinonehack">allinonehack - A tool used to download different hacking tools.</a>
 <li> <a href="https://github.com/krishpranav/ktop">ktop - A terminal based graphical activity monitor inspired by htop.</a>
 
