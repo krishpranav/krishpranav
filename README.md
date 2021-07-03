@@ -8,7 +8,7 @@
 <b><i>💻 I'm a Student & A part time Programmer</i></b>
 
 <h3><b><i> My Awsome Works :</i></b></h3>
-<li> <a href="https://github.com/krishpranav/prana-os">pranaOS - A unix operating system made from scratch using c++</a>
+<li> <a href="https://github.com/pranaOS/pranaOS">pranaOS - A unix operating system made from scratch using c++</a>
 <li> <a href="https://github.com/krishpranav/adbsploit">adbsploit - A python based tool for exploiting and managing android devices via ADB.</a>
 <li> <a href="https://github.com/krishpranav/exploit-framework">exploit-framework - A multiple reverse shell sessions/clients manager via terminal written in go. </a> 
 <li> <a href="https://github.com/krishpranav/IP-Grabber">IP-Grabber - A tool for grabbing victims ip and tracks his location.</a>
@@ -21,3 +21,6 @@
 
 <h3><b><i>🏆 My Profile View :</i></b></h3>
 <a href="https://github.com/krishpranav"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=krishpranav&color=blueviolet&style=flat-square"></a>
+
+Check Out My Youtube Channel:
+https://www.youtube.com/channel/UCHBR5EYG9MDJ-yws4zN6xXQ
