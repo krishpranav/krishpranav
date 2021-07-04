@@ -5,7 +5,7 @@
 </a></p>
 
 <h2><b><i>Hi i am krishpranav 👋</i></b></h2>
-<b><i>💻 I'm a Student & A part time Programmer</i></b>
+<b><i>💻 I'm a Student & A full time Programmer</i></b>
 
 <h3><b><i> My Awsome Works :</i></b></h3>
 <li> <a href="https://github.com/pranaOS/pranaOS">pranaOS - A unix operating system made from scratch using c++</a>
