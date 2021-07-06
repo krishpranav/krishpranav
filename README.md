@@ -4,6 +4,9 @@
 &nbsp;&nbsp;&nbsp;
 </a></p>
 
+![Twitter Follow](https://img.shields.io/twitter/follow/krishpranav5?label=krishpranav5&logo=twitter&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/krishpranav?logo=GitHub&style=for-the-badge)
+
 <h2><b><i>Hi i am krishpranav 👋</i></b></h2>
 <b><i>💻 I'm a Student & A full time Programmer</i></b>
 
