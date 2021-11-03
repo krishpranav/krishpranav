@@ -8,7 +8,6 @@
 ![krishpranav Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krishpranav&theme=solarized_dark)
 ![krishpranav Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krishpranav&theme=solarized_dark)
 
-
 <h2><b><i>Hi i am krishpranav 👋</i></b></h2>
 <b><i>💻 I'm a Student & A full time Programmer</i></b>
 
@@ -27,5 +26,5 @@
 <h3><b><i>🏆 My Profile View :</i></b></h3>
 <a href="https://github.com/krishpranav"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=krishpranav&color=blueviolet&style=flat-square"></a>
 
-Check Out My Youtube Channel:
-https://www.youtube.com/channel/UCHBR5EYG9MDJ-yws4zN6xXQ
+## Languages I Use & Love:
+- Golang, Ruby, Swift, Python, C++, Objective-C
