@@ -29,3 +29,7 @@
 
 ## Languages I Use & Love:
 - Golang, Ruby, Swift, Python, C++, Objective-C
+
+
+## My Channel:
+- i will put some videos about creating ios applications using swift over on my [youtube channel](https://www.youtube.com/channel/UCW5diH8AVgy-b8BsDrDqNNw). If you like my channel subscribe it :)
