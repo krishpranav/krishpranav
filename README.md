@@ -32,4 +32,4 @@
 
 
 ## My Channel:
-- i will put some videos about creating ios applications using swift over on my [youtube channel](https://www.youtube.com/channel/UCW5diH8AVgy-b8BsDrDqNNw). If you like my channel subscribe it :)
+- I will put some videos about golang, creating ios applications using swift over on my, etc.. [youtube channel](https://www.youtube.com/channel/UCW5diH8AVgy-b8BsDrDqNNw). If you like my channel subscribe it :)
