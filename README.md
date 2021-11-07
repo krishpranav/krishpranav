@@ -5,8 +5,12 @@
 </a></p>
 
 
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=krishpranav&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=tru)
+
+
 ![krishpranav Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krishpranav&theme=solarized_dark)
 ![krishpranav Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krishpranav&theme=solarized_dark)
+
 
 <h2><b><i>Hi i am krishpranav 👋</i></b></h2>
 <b><i>💻 I'm a Student & A full time Programmer</i></b>
