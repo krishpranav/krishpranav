@@ -32,7 +32,7 @@
 <a href="https://github.com/krishpranav"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=krishpranav&color=blueviolet&style=flat-square"></a>
 
 ## Languages I Use & Love:
-- Golang, Ruby, Swift, Python, C++, Objective-C
+- Golang, Ruby, Swift, Python, C++, Crystal
 
 
 ## My Channel:
