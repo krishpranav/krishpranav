@@ -9,7 +9,6 @@
 
 
 ![krishpranav Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krishpranav&theme=solarized_dark)
-![krishpranav Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krishpranav&theme=solarized_dark)
 
 
 <h2><b><i>Hi i am krishpranav 👋</i></b></h2>
