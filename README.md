@@ -7,9 +7,10 @@
 
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=krishpranav&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=tru)
 
-
-![krishpranav Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krishpranav&theme=solarized_dark)
-
+<p align="center">
+<!-- ![krishpranav Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krishpranav&theme=solarized_dark) -->
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krishpranav&theme=solarized_dark"/>
+</p>
 
 <h2><b><i>Hi i am krishpranav 👋</i></b></h2>
 <b><i>💻 I'm a Student & A full time Programmer</i></b>
@@ -31,7 +32,7 @@
 <a href="https://github.com/krishpranav"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=krishpranav&color=blueviolet&style=flat-square"></a>
 
 ## Languages I Use & Love:
-- Golang, Ruby, Swift, Python, C++, Crystal
+- Golang, Ruby, Swift, Python, C++
 
 
 ## My Channel:
