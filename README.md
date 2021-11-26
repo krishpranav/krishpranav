@@ -1,10 +1,3 @@
-<!-- Github README -->
-<p align="center"><a href="https://github.com/krishpranav">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=krishpranav&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
-&nbsp;&nbsp;&nbsp;
-</a></p>
-
-
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=krishpranav&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=tru)
 
 <p align="center">
