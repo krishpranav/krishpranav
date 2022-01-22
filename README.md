@@ -1,7 +1,3 @@
-<p align="center">
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krishpranav&theme=solarized_dark"/>
-</p>
-
 <h2><b><i>Hi i am krishpranav 👋</i></b></h2>
 <b><i>💻 I'm a Student & A full time Programmer</i></b>
 
@@ -22,6 +18,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=krishpranav&show_icons=true&theme=midnight-purple&line_height=24&hide=stars&bg_color=0d1117" />
 </a>
+
+<a href="https://github.com/krishpranav"><img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krishpranav&theme=solarized_dark"/> </a>
 
 
 <h3><b><i>🏆 My Profile View :</i></b></h3>
