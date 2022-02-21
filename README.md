@@ -1,14 +1,4 @@
-<h2><b><i>Hi i am krishpranav 👋</i></b></h2>
-<b><i>💻 I'm a Student & A full time Programmer</i></b>
-
-<h3><b><i> My Awsome Works :</i></b></h3>
-<li> <a href="https://github.com/pranaOS/pranaOS">pranaOS - A unix operating system made from scratch using Golang</a>
-<li> <a href="https://github.com/krishpranav/adbsploit">adbsploit - A python based tool for exploiting and managing android devices via ADB.</a>
-<li> <a href="https://github.com/krishpranav/maigret">maigret - A simple username osint tool built in go. </a> 
-<li> <a href="https://github.com/krishpranav/wpscan">wpscan - wpscan is a vulnerability recognition tool in CMS Wordpress developed in Go.</a>
-<li> <a href="https://github.com/krishpranav/gorestapi">gorestapi - A Simple REST Api Built Using Golang + Gin </a>
-<li> <a href="https://github.com/krishpranav/Backdoorcreator">Backdoorcreator - Exploit toolkit.</a>
-
+[![](https://github.com/krishpranav/krishpranav/blob/master/chat.svg)](https://twitter.com/krishpranav5)
 
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
