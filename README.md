@@ -1,5 +1,3 @@
-[![](https://github.com/krishpranav/krishpranav/blob/master/chat.svg)](https://twitter.com/krishpranav5)
-
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <!-- <a href="https://github.com/krishpranav"><img width=550 src="https://github-profile-trophy.vercel.app/?username=krishpranav&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a> -->
@@ -10,8 +8,27 @@
 </a>
 
 
-<h3><b><i>🏆 My Profile View :</i></b></h3>
-<a href="https://github.com/krishpranav"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=krishpranav&color=blueviolet&style=flat-square"></a>
+
+## 📊 **I Mostly Spend Time On** 
+
+```text
+💬 Programming Languages: 
+C++                        ███████████████████░░░░░░   78.39% 
+Gol                        ██████████░░░░░░░░░░░░░░░   30%  
+Rust                       ██░░░░░░░░░░░░░░░░░░░░░░░   10.99% 
+Python                     █░░░░░░░░░░░░░░░░░░░░░░░░   5%
+
+🔥 Editors: 
+VS Code                    █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+pranaOS                    ████████████████░░░░░░░░░   66.14% 
+otherprojects              ███░░░░░░░░░░░░░░░░░░░░░░   12.91% 
+
+💻 Operating System: 
+macOS                      █████████████████████████   100.0%
+
+```
 
 ## Languages I Use & Love:
 - Golang, Rust, Swift, C++, Python, Ruby
