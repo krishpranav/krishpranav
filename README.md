@@ -23,19 +23,33 @@ VS Code                    █████████████████�
 Xcode                      ████████░░░░░░░░░░░░░░░░░   25.0%
 
 🐱‍💻 Projects: 
-pranaOS                    ████████████████░░░░░░░░░   70% 
-otherprojects              █████████░░░░░░░░░░░░░░░░   30% 
+pranaOS                    ██████████████░░░░░░░░░░░   50% 
+otherprojects              ██████████████░░░░░░░░░░░   50% 
 
 💻 Operating System: 
 macOS                      █████████████████████████   100.0%
 
 ```
 
-## Languages I Use & Love:
-- Golang, Rust, Swift, C++, Python, Ruby
+## Languages I Use The Most:
+- Golang [2 years experience]
+- Rust [2 years experience]
+- C++ [3 years experience]
+- Python [4 years experience]
+- Swift [2 year experience]
+- Flutter [2 year experience]
+
+## Intrests:
+- Hacking
+- App Development[Flutter, Swift]
+- Backend Development[Rust, Golang, C++]
+- Blockchain Development[Rust, Python]
+- Open Source Projects[Frameworks, Operating-Systems, UserFriendlyApps, HackingTools]
+- Music Beats Producing
+
 
 
 ## My Channel:
 - I will put some videos about golang, creating ios applications using swift, etc... over on my [youtube channel](https://www.youtube.com/channel/UCW5diH8AVgy-b8BsDrDqNNw). If you like my channel subscribe it :)
 
-## I am open to work 
+## I am open to work for any projects
