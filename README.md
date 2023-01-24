@@ -7,6 +7,21 @@
   <img src="https://github-readme-stats.vercel.app/api?username=krishpranav&show_icons=true&theme=midnight-purple&line_height=24&hide=stars&bg_color=0d1117" />
 </a>
 
+## About me:
+```text
+Hi Everyone,
+I am Krisna Pranav from India,
+
+I am a expierinced hacker, python/golang developer and native ios developer,
+
+I am open to work and looking for job opertunities if you are intrested in my profile contact me krisna.pranav@gmail.com
+
+I'd love to hear more updates from you guys,
+
+Thanks.
+
+- Krisna Pranav
+```
 
 
 ## 📊 **I Mostly Spend Time On** 
@@ -41,16 +56,18 @@ blackarch                  ███████████████░░�
 - Swift [2 year experience]
 
 ## Intrests:
-- Hacking
+- Ethical Hacking
 - App Development[Swift]
 - Backend Development[Rust, Golang, C++]
-- Blockchain Development[Rust, Python]
 - Open Source Projects[Frameworks, Operating-Systems, UserFriendlyApps, HackingTools]
 - Music Beats Producing
 
 
 
-## My Channel:
+## Links:
+- My Website: https://krishpranav.github.io/
+- My Youtube Channel Link: http://youtube.com/@programmingdev5724
+- tryhackme Link: https://tryhackme.com/p/krishpranav01
+- Hack The Box(HTB) Link: https://app.hackthebox.com/profile/418532
+- Email: krisna.pranav@gmail.com
 - I will put some videos about golang, creating ios applications using swift, etc... over on my [youtube channel](https://www.youtube.com/channel/UCW5diH8AVgy-b8BsDrDqNNw). If you like my channel subscribe it :)
-
-## I am open to work for any projects
