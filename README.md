@@ -32,16 +32,14 @@ macOS                      █████████████████�
 ```
 
 ## Languages I Use The Most:
-- Golang [2 years experience]
-- Rust [2 years experience]
-- C++ [3 years experience]
 - Python [4 years experience]
+- Golang [2 years experience]
+- C++ [3 years experience]
 - Swift [2 year experience]
-- Flutter [2 year experience]
 
 ## Intrests:
 - Hacking
-- App Development[Flutter, Swift]
+- App Development[Swift]
 - Backend Development[Rust, Golang, C++]
 - Blockchain Development[Rust, Python]
 - Open Source Projects[Frameworks, Operating-Systems, UserFriendlyApps, HackingTools]
