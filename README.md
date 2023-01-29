@@ -49,20 +49,12 @@ blackarch                  ███████████████░░�
 
 ```
 
-## Languages I Use The Most:
-- Python [4 years experience]
-- Golang [2 years experience]
-- C++ [3 years experience]
-- Swift [2 year experience]
-
 ## Intrests:
 - Ethical Hacking
-- App Development[Swift]
-- Backend Development[Rust, Golang, C++]
+- App Development[Flutter]
+- Backend Development[Python, Golang]
 - Open Source Projects[Frameworks, Operating-Systems, UserFriendlyApps, HackingTools]
-- Music Beats Producing
-
-
+- Music Beats Producer: [SoundCloud](https://soundcloud.com/krisna-pranav-elangovan)
 
 ## Links:
 - My Website: https://krishpranav.github.io/
