@@ -12,11 +12,9 @@
 Hi Everyone,
 I am Krisna Pranav from India,
 
-I am a expierinced hacker, python/golang developer and native ios developer,
+I am a expierinced hacker, python/c++ developer and flutter developer
 
 I am open to work and looking for job opertunities if you are intrested in my profile contact me krisna.pranav@gmail.com
-
-I'd love to hear more updates from you guys,
 
 Thanks.
 
