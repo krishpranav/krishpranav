@@ -10,15 +10,13 @@
 ## About me:
 ```text
 Hi Everyone,
-I am Krisna Pranav from India,
+I am Krisna Pranav😃
 
-I am a expierinced hacker, python/c++ developer and flutter developer
+Experienced Ethical Hacker, Flutter, Golang, Rust & Python 💻
 
-I am open to work and looking for job opertunities if you are intrested in my profile contact me krisna.pranav@gmail.com
+I am open to work and looking for job opertunities if you are intrested in my profile contact me krisna.pranav@gmail.com 🕴️
 
 Thanks.
-
-- Krisna Pranav
 ```
 
 
@@ -26,31 +24,29 @@ Thanks.
 
 ```text
 💬 Programming Languages: 
-Python                     ███████████████░░░░░░░░░░   50%
-Go                         ██████████░░░░░░░░░░░░░░░   20%  
-Swift                      ████████░░░░░░░░░░░░░░░░░   20%  
-Rust                       ███░░░░░░░░░░░░░░░░░░░░░░   10%
+Python                       ███████████████░░░░░░░░░░   50%
+Go                           ██████████░░░░░░░░░░░░░░░   20%  
+Rust                         ████████░░░░░░░░░░░░░░░░░   20%  
+Flutter                      ███░░░░░░░░░░░░░░░░░░░░░░   10%
 
 🔥 Editors: 
 VS Code                    ████████████████████░░░░░   75.0%
 Xcode                      ████████░░░░░░░░░░░░░░░░░   25.0%
 
 🐱‍💻 Projects: 
-pranaOS                    ██████████████░░░░░░░░░░░   50% 
+pranaOS                          ██████████████░░░░░░░░░░░   50% 
 
-python, swift
-golang projects            ██████████████░░░░░░░░░░░   50% 
+open-source frameworks           ██████████████░░░░░░░░░░░   50% 
 
 💻 Operating System: 
 macOS                      █████████████████████████   100.0%
-blackarch                  ███████████████░░░░░░░░░░   50%
 
 ```
 
 ## Intrests:
 - Ethical Hacking
 - App Development[Flutter]
-- Backend Development[Python, Golang]
+- Backend Development[Python, Golang, Rust]
 - Open Source Projects[Frameworks, Operating-Systems, UserFriendlyApps, HackingTools]
 - Music Beats Producer: [SoundCloud](https://soundcloud.com/krisna-pranav-elangovan)
 
