@@ -12,9 +12,9 @@
 Hi Everyone,
 I am Krisna Pranav😃
 
-Experienced Ethical Hacker, Flutter, Golang, Rust & Python 💻
+Experienced Ethical Hacker, Flutter, Golang, Rust 💻
 
-I am open to work and looking for job opertunities if you are intrested in my profile contact me krisna.pranav@gmail.com 🕴️
+I am open to work and looking freelancing job opportunites if you are intrested in my profile contact me krisna.pranav@gmail.com 🕴️
 
 Thanks.
 ```
@@ -24,19 +24,14 @@ Thanks.
 
 ```text
 💬 Programming Languages: 
-Python                       ███████████████░░░░░░░░░░   50%
+Flutter                      ███████████████░░░░░░░░░░   50%
 Go                           ██████████░░░░░░░░░░░░░░░   20%  
 Rust                         ████████░░░░░░░░░░░░░░░░░   20%  
-Flutter                      ███░░░░░░░░░░░░░░░░░░░░░░   10%
+Other                        ███░░░░░░░░░░░░░░░░░░░░░░   10%
 
 🔥 Editors: 
 VS Code                    ████████████████████░░░░░   75.0%
 Xcode                      ████████░░░░░░░░░░░░░░░░░   25.0%
-
-🐱‍💻 Projects: 
-pranaOS                          ██████████████░░░░░░░░░░░   50% 
-
-open-source frameworks           ██████████████░░░░░░░░░░░   50% 
 
 💻 Operating System: 
 macOS                      █████████████████████████   100.0%
@@ -46,7 +41,7 @@ macOS                      █████████████████�
 ## Intrests:
 - Ethical Hacking
 - App Development[Flutter]
-- Backend Development[Python, Golang, Rust]
+- Backend Development[Golang, Rust]
 - Open Source Projects[Frameworks, Operating-Systems, UserFriendlyApps, HackingTools]
 - Music Beats Producer: [SoundCloud](https://soundcloud.com/krisna-pranav-elangovan)
 
@@ -56,4 +51,4 @@ macOS                      █████████████████�
 - tryhackme Link: https://tryhackme.com/p/krishpranav01
 - Hack The Box(HTB) Link: https://app.hackthebox.com/profile/418532
 - Email: krisna.pranav@gmail.com
-- I will put some videos about golang, creating ios applications using swift, etc... over on my [youtube channel](https://www.youtube.com/channel/UCW5diH8AVgy-b8BsDrDqNNw). If you like my channel subscribe it :)
+- I will put some videos about golang, creating appliations using flutter, blockchain development etc... over on my [youtube channel](https://www.youtube.com/channel/UCW5diH8AVgy-b8BsDrDqNNw). If you like my channel subscribe it :)
