@@ -12,7 +12,7 @@
 Hi Everyone,
 I am Krisna Pranav😃
 
-Experienced Ethical Hacker, Flutter, Golang, Rust 💻
+Experienced Ethical Hacker, Flutter, Golang, Rust, Web3/Blockchain Developer 💻
 
 I am open to work and looking freelancing job opportunites if you are intrested in my profile contact me krisna.pranav@gmail.com 🕴️
 
