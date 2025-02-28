@@ -1,47 +1,99 @@
-## 🏆 **GitHub Statistics**
+## 🏆 GitHub Statistics
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishpranav&show_icons=true&theme=midnight-purple&line_height=24&hide=stars&bg_color=0d1117" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishpranav&show_icons=true&theme=radical" />
+</p>
 
-<a href="https://github.com/krishpranav">
-  <img src="https://github-profile-trophy.vercel.app/?username=krishpranav&theme=dracula&margin-w=15&margin-h=15&no-frame=true&column=6" />
-</a>
-
-## 💻 **Tech Stack**
- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React Native](https://img.shields.io/badge/react--native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%23000000) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=%23FFFFFF) ![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishpranav&theme=radical" />
+</p>
 
 
-## 🧑‍💻 **About Me**
+## 👨‍💻 About Me:
 
-```text
-Hi Everyone, I'm Krisna Pranav 😃
+I am a highly skilled and versatile software engineer with over 10 years of experience in developing, optimizing, and contributing to cutting-edge technologies. My expertise spans across full-stack web development, mobile applications, blockchain, artificial intelligence, and open-source contributions. I have worked extensively with various programming languages, frameworks, and platforms, allowing me to build scalable and high-performance applications.  
 
-Experienced Ethical Hacker, Full-Stack Mobile/Web Application and Web3/Blockchain Developer with 7+ years of experience 💻
+### Open-Source Contributions  
+I have actively contributed to some of the world’s most widely used open-source projects, improving performance, security, and functionality. My contributions include:  
 
-I am open to work and looking for freelancing job opportunities. If you're interested in my profile, contact me at krisna.pranav@gmail.com 🕴️
-```
+- React and React Native (Meta) – Optimized performance, enhanced features, and improved developer experience.  
+- Angular, Flutter, Golang, and Android Open Source Project (Google) – Improved framework efficiency, mobile UI, and backend performance.  
+- Solidity and Ethereum – Focused on smart contract security, gas optimization, and blockchain scalability.  
+- Firefox (Mozilla) – Enhanced web performance, security, and rendering capabilities.  
+- Bitcoin – Contributed to network optimizations, security protocols, and consensus improvements.  
 
-## 📊 **I Mostly Spend Time On**
+### Technical Expertise  
+I have deep knowledge and hands-on experience in:  
 
-```text
-💬 Programming Languages: 
-Flutter                      ███████████████░░░░░░░░░░   50%
-Go                           ██████████░░░░░░░░░░░░░░░   20%
-Rust                         ████████░░░░░░░░░░░░░░░░░   20%
-Other                        ███░░░░░░░░░░░░░░░░░░░░░░   10%
-```
+- Programming languages: C++, Python, JavaScript, TypeScript, Rust, Go, Swift, Kotlin, Dart, Solidity, and more.  
+- Web frameworks: React, Next.js, Angular, Vue, Svelte, Express, NestJS, Django, FastAPI, Flask, Laravel, and Rails.  
+- Mobile development: Flutter, React Native, Swift, Kotlin, Android, and iOS.  
+- Blockchain and Web3: Smart contract development, decentralized applications, and cryptocurrency security.  
+- AI and Machine Learning: Building intelligent automation solutions and AI-driven applications.  
+- DevOps and Cloud: Docker, Kubernetes, AWS, Google Cloud, Firebase, and CI/CD pipelines.  
 
-## 🎧 **Interests:**
-- Ethical Hacking
-- App Development (Flutter, React-Native, Native(Android/iOS))
-- Backend Development (Python, Golang, Rust, Node.js, C++, C#, Java, Javascript/Typescript)
-- Open Source Projects (Frameworks, Operating Systems, User-Friendly Apps, Hacking Tools)
-- Music Beats Producer: [SoundCloud](https://soundcloud.com/krisna-pranav-elangovan)
+I am passionate about building efficient, scalable, and developer-friendly tools that push the boundaries of technology. My focus is on innovation, problem-solving, and delivering high-quality software solutions that make an impact.
 
-## 🌐 **Find Me On**
-- 🌐 My [Website](https://krishpranav.github.io/)
-- 📺 Youtube [Channel](http://youtube.com/@programmingdev5724)
-- 💻 [TryHackMe](https://tryhackme.com/p/krishpranav01)
-- 🔓 [Hack The Box](https://app.hackthebox.com/profile/418532)
-- 📧 **Email:** krisna.pranav@gmail.com
+
+## 🛠️ Tech Stack
+
+### 🖥️ **Languages**: 
+<p align="start">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+### 🌐 **Web Frameworks**: 
+<p align="start">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solid.js-2C4F7C?style=for-the-badge&logo=solid&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+</p>
+
+### 📱 **Mobile Frameworks**:
+<p align="start">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</p>
+
+
+## 📫 **Contact Me**  
+📧 Email: [krisna.pranav@gmail.com](mailto:krisna.pranav@gmail.com)  
+🌐 LinkedIn: [soon...]()  
+🐦 Twitter: [@yourhandle](https://twitter.com/YOUR_HANDLE)  
