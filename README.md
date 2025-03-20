@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me:
 
-I am a highly skilled and versatile software engineer with over 10 years of experience in developing, optimizing, and contributing to cutting-edge technologies. My expertise spans across full-stack web development, mobile applications, blockchain, artificial intelligence, and open-source contributions. I have worked extensively with various programming languages, frameworks, and platforms, allowing me to build scalable and high-performance applications.  
+I am a highly skilled and versatile software engineer with over 10 years of experience in programming, developing, optimizing, and contributing to cutting-edge technologies. My expertise spans across full-stack web development, mobile applications, blockchain, artificial intelligence, and open-source contributions. I have worked extensively with various programming languages, frameworks, and platforms, allowing me to build scalable and high-performance applications.  
 
 ### Open-Source Contributions  
 I have actively contributed to some of the world’s most widely used open-source projects, improving performance, security, and functionality. My contributions include:  
@@ -95,5 +95,4 @@ I am passionate about building efficient, scalable, and developer-friendly tools
 
 ## 📫 **Contact Me**  
 📧 Email: [krisna.pranav@gmail.com](mailto:krisna.pranav@gmail.com)  
-🌐 LinkedIn: [soon...]()  
-🐦 Twitter: [@yourhandle](https://twitter.com/YOUR_HANDLE)  
+🌐 LinkedIn: [krishpranav]()  
