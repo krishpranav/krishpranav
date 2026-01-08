@@ -1,14 +1,3 @@
-## 🏆 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishpranav&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishpranav&theme=radical" />
-</p>
-
-
 ## 👨‍💻 About Me:
 
 I am a highly skilled and versatile software engineer with over 5 years of experience in programming, developing, optimizing, and contributing to cutting-edge technologies. My expertise spans across full-stack web development, mobile applications, blockchain, artificial intelligence, and open-source contributions. I have worked extensively with various programming languages, frameworks, and platforms, allowing me to build scalable and high-performance applications.  
@@ -22,7 +11,7 @@ I have actively contributed to some of the world’s most widely used open-sourc
 - Firefox (Mozilla) – Enhanced web performance, security, and rendering capabilities.  
 - Bitcoin – Contributed to network optimizations, security protocols, and consensus improvements.  
 
-### Technical Expertise  
+### Technical Expertise:  
 I have deep knowledge and hands-on experience in:  
 
 - Programming languages: C++, Python, JavaScript, TypeScript, Rust, Go, Swift, Kotlin, Dart, Solidity, and more.  
@@ -35,7 +24,7 @@ I have deep knowledge and hands-on experience in:
 I am passionate about building efficient, scalable, and developer-friendly tools that push the boundaries of technology. My focus is on innovation, problem-solving, and delivering high-quality software solutions that make an impact.
 
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack:
 
 ### 🖥️ **Languages**: 
 <p align="start">
