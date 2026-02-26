@@ -84,4 +84,4 @@ I am passionate about building efficient, scalable, and developer-friendly tools
 
 ## 📫 **Contact Me**  
 📧 Email: [krisna.pranav@gmail.com](mailto:krisna.pranav@gmail.com)  
-🌐 LinkedIn: []()  
+🌐 LinkedIn: [krishpranav](https://www.linkedin.com/in/krishpranav/)  
