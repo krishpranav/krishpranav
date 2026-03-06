@@ -1,31 +1,47 @@
-## 👨‍💻 About Me:
+# Krisna Pranav
 
-I am a highly skilled and versatile software engineer with over 5 years of experience in programming, developing, optimizing, and contributing to cutting-edge technologies. My expertise spans across full-stack web development, mobile applications, blockchain, artificial intelligence, and open-source contributions. I have worked extensively with various programming languages, frameworks, and platforms, allowing me to build scalable and high-performance applications.  
+Systems Engineer • Rust Developer • Golang Developer • Blockchain Infrastructure
 
-### Open-Source Contributions  
-I have actively contributed to some of the world’s most widely used open-source projects, improving performance, security, and functionality. My contributions include:  
+Building high-performance backend systems, distributed infrastructure, and blockchain platforms with a focus on performance, security, and reliability.
 
-- React and React Native (Meta) – Optimized performance, enhanced features, and improved developer experience.  
-- Angular, Flutter, Golang, and Android Open Source Project (Google) – Improved framework efficiency, mobile UI, and backend performance.  
-- Solidity and Ethereum – Focused on smart contract security, gas optimization, and blockchain scalability.  
-- Firefox (Mozilla) – Enhanced web performance, security, and rendering capabilities.  
-- Bitcoin – Contributed to network optimizations, security protocols, and consensus improvements.  
+### Core Focus
 
-### Technical Expertise:  
-I have deep knowledge and hands-on experience in:  
+• Rust / Golang systems engineering  
+• Solana / Ethereum blockchain infrastructure  
+• High-throughput backend platforms  
+• Distributed systems & microservices  
+• Low-latency APIs and trading systems
 
-- Programming languages: C++, Python, JavaScript, TypeScript, Rust, Go, Swift, Kotlin, Dart, Solidity, and more.  
-- Web frameworks: React, Next.js, Angular, Vue, Svelte, Express, NestJS, Django, FastAPI, Flask, Laravel, and Rails.  
-- Mobile development: Flutter, React Native, Swift, Kotlin, Android, and iOS.  
-- Blockchain and Web3: Smart contract development, decentralized applications, and cryptocurrency security.  
-- AI and Machine Learning: Building intelligent automation solutions and AI-driven applications.  
-- DevOps and Cloud: Docker, Kubernetes, AWS, Google Cloud, Firebase, and CI/CD pipelines.  
+## Engineering Philosophy
 
-I am passionate about building efficient, scalable, and developer-friendly tools that push the boundaries of technology. My focus is on innovation, problem-solving, and delivering high-quality software solutions that make an impact.
+I care about systems that last.
 
+Good software should be:  
+• fast  
+• predictable  
+• secure  
+• understandable  
 
-## 🛠️ Tech Stack:
+I enjoy building infrastructure that other developers rely on.
 
+## Open Source Contributions
+
+I have actively contributed to ecosystems defining the modern internet and decentralized infrastructure. My focus is typically on performance optimizations, security, and developer experience.
+
+• **React / React Native ecosystem**
+• **Mozilla Firefox ecosystem**
+• **Ethereum / Solidity tooling**
+• **Bitcoin ecosystem**
+
+## 🦀 Core Engineering Stack (Spotlight)
+
+Rust • Go • Solidity  
+Solana / Anchor  
+Distributed Backend Systems  
+High-Throughput Platforms  
+
+## 🧰 Engineering Arsenal
+While my primary focus is systems engineering and blockchain infrastructure, I’ve worked across a wide range of technologies over the years.
 ### 🖥️ **Languages**: 
 <p align="start">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -81,7 +97,32 @@ I am passionate about building efficient, scalable, and developer-friendly tools
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
+## Projects & Work:
+I specialize in building systems that require strict performance and reliability guarantees. My work typically involves designing and implementing:
 
-## 📫 **Contact Me**  
+- **Backend platforms** that scale under load
+- **Blockchain infrastructure** and high-certainty smart contracts
+- **Developer tooling** that improves engineering velocity
+- **Distributed frameworks** operating at high throughput
+- **AI-assisted tools** heavily integrated with core infrastructure
+
+## Currently Building:
+- **Jetvoy Infrastructure** — architecting backend and blockchain-integrated components for a next-generation travel platform combining concierge services and scalable booking infrastructure.
+- **Rust backend infrastructure tools** for high-performance systems.
+- **Blockchain tooling and smart contract systems** across Solana and Ethereum ecosystems.
+
+## Outside the Terminal
+
+Outside of engineering, you'll probably find me pushing a car sideways in a rally stage, watching crypto charts at 3AM, or working on music in the studio. 
+
+🏎 **Sim Racing** — competitive racing on high-end simulators  
+🚗 **Test Rally Driving** — real-world motorsport training  
+📈 **Trading Crypto** — active trader for 6+ years  
+🎵 **Music** — released two albums
+
+Engineering is the profession — building things is the lifestyle.
+
+## 📫 Contact
+
 📧 Email: [krisna.pranav@gmail.com](mailto:krisna.pranav@gmail.com)  
-🌐 LinkedIn: [krishpranav](https://www.linkedin.com/in/krishpranav/)  
+🌐 LinkedIn: [krishpranav](https://www.linkedin.com/in/krishpranav/)
