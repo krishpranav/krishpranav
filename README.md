@@ -2,7 +2,9 @@
 
 Systems Engineer • Rust Developer • Golang Developer • Blockchain Infrastructure
 
-Building high-performance backend systems, distributed infrastructure, and blockchain platforms with a focus on performance, security, and reliability.
+I build infrastructure where performance, reliability, and correctness actually matter — designing high-performance backend systems, distributed platforms, and blockchain infrastructure.
+
+My work focuses on scalable architecture, low-latency systems, and production-grade reliability.
 
 ### Core Focus
 
