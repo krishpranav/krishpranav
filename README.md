@@ -26,15 +26,6 @@ Good software should be:
 
 I enjoy building infrastructure that other developers rely on.
 
-## Open Source Contributions
-
-I have actively contributed to ecosystems defining the modern internet and decentralized infrastructure. My focus is typically on performance optimizations, security, and developer experience.
-
-• **React / React Native ecosystem**
-• **Mozilla Firefox ecosystem**
-• **Ethereum / Solidity tooling**
-• **Bitcoin ecosystem**
-
 ## 🦀 Core Engineering Stack (Spotlight)
 
 Rust • Go • Solidity  
