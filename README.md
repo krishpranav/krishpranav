@@ -1,6 +1,6 @@
 # Krisna Pranav
 
-Systems Engineer • Rust Developer • Golang Developer • Blockchain Infrastructure
+AI/ML Engineer • Systems Engineer • Rust Developer • Golang Developer • Blockchain Infrastructure
 
 I build infrastructure where performance, reliability, and correctness actually matter — designing high-performance backend systems, distributed platforms, and blockchain infrastructure.
 
