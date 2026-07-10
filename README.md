@@ -16,7 +16,7 @@ Building high-performance AI infrastructure, agentic systems, and production-gra
 - Focused on inference optimization, distributed AI workloads, and reliable production deployment
 
 ### Experience Highlights:
-- **Ursa AI** - Founding Engineer #1 for the world's best voice agent AI
+- **Ursa AI** - Founding Engineer #1 world's best AI notetaker backed by VC, Zepto, Flipkart
 - **Turing** — AI/ML Systems Engineer (Agentic Systems & LLM Infrastructure)
 - **Handshake AI** — AI/ML Engineer (LLM Infrastructure)
 - **PayPal** — Migrated high-throughput services (15–20M req/day) using advanced Golang concurrency patterns
