@@ -15,8 +15,10 @@ Building high-performance AI infrastructure, agentic systems, and production-gra
 - Designing performance-critical infrastructure in Rust & C++ for model training, reasoning, and multi-step automation
 - Focused on inference optimization, distributed AI workloads, and reliable production deployment
 
-### Experience Highlights
+### Experience Highlights:
+- **Ursa AI** - Founding Engineer #1 for the world's best voice agent AI
 - **Turing** — AI/ML Systems Engineer (Agentic Systems & LLM Infrastructure)
+- **Handshake AI** — AI/ML Engineer (LLM Infrastructure)
 - **PayPal** — Migrated high-throughput services (15–20M req/day) using advanced Golang concurrency patterns
 - **Aether** — Built privacy-first AI desktop agent in Rust with on-device HNSW vector search
 - **BlockStars** — Real-time video understanding pipelines (YOLO + LLM reasoning)
